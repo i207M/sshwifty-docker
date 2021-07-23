@@ -1,0 +1,1 @@
+FROM niruix/sshwifty:latest
